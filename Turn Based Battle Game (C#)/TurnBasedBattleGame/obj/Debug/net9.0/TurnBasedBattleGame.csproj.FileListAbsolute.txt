@@ -1,0 +1,14 @@
+D:\Turn Based Battle Game (C#)\TurnBasedBattleGame\bin\Debug\net9.0\TurnBasedBattleGame.exe
+D:\Turn Based Battle Game (C#)\TurnBasedBattleGame\bin\Debug\net9.0\TurnBasedBattleGame.deps.json
+D:\Turn Based Battle Game (C#)\TurnBasedBattleGame\bin\Debug\net9.0\TurnBasedBattleGame.runtimeconfig.json
+D:\Turn Based Battle Game (C#)\TurnBasedBattleGame\bin\Debug\net9.0\TurnBasedBattleGame.dll
+D:\Turn Based Battle Game (C#)\TurnBasedBattleGame\bin\Debug\net9.0\TurnBasedBattleGame.pdb
+D:\Turn Based Battle Game (C#)\TurnBasedBattleGame\obj\Debug\net9.0\TurnBasedBattleGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Turn Based Battle Game (C#)\TurnBasedBattleGame\obj\Debug\net9.0\TurnBasedBattleGame.AssemblyInfoInputs.cache
+D:\Turn Based Battle Game (C#)\TurnBasedBattleGame\obj\Debug\net9.0\TurnBasedBattleGame.AssemblyInfo.cs
+D:\Turn Based Battle Game (C#)\TurnBasedBattleGame\obj\Debug\net9.0\TurnBasedBattleGame.csproj.CoreCompileInputs.cache
+D:\Turn Based Battle Game (C#)\TurnBasedBattleGame\obj\Debug\net9.0\TurnBasedBattleGame.dll
+D:\Turn Based Battle Game (C#)\TurnBasedBattleGame\obj\Debug\net9.0\refint\TurnBasedBattleGame.dll
+D:\Turn Based Battle Game (C#)\TurnBasedBattleGame\obj\Debug\net9.0\TurnBasedBattleGame.pdb
+D:\Turn Based Battle Game (C#)\TurnBasedBattleGame\obj\Debug\net9.0\TurnBasedBattleGame.genruntimeconfig.cache
+D:\Turn Based Battle Game (C#)\TurnBasedBattleGame\obj\Debug\net9.0\ref\TurnBasedBattleGame.dll
